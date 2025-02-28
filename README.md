@@ -4,28 +4,31 @@ In Iran, tech communities are active in various cities with the goal of promotin
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 - [Gilan](#gilan)
+  - [Python](#python)
 - [karaj](#karaj)
+  - [Linux](#linux)  
 - [Mashhad](#mashhad)
   - [Linux](#linux)
+  - [Python](#python)
 - [Shiraz](#shiraz)
   - [Linux](#linux) 
 - [Tehran](#tehran)
   - [Business Intelligence](#business-intelligence) 
   - [Data Engineer](#data-engineer)
   - [Free Knowledge](#free-knowledge)
+  - [Go](#go)
   - [Java](#java)
   - [Linux](#linux)
-    - [Linux](#linux) 
-    - [Embedded Linux](#embedded-linux)
   - [Network](#network)
   - [Python](#python)
+  - [Rust](#rust)
 - [Zanjan](#zanjan)
 
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
-## example
-- Topic
-  - In-person meeting: 🟢
+## example Topic
+- Name
+  - In-person meeting: ❔🟢🔴
   - Site: []()
   - Mailing List: []()
   - Telegram: [Group]() • [Channel]()
@@ -96,15 +99,25 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - Free Knowledge Foundation
   - In-person meeting: ❔
   - Site: [wiki.lfkf.org](https://wiki.lfkf.org/)
+ 
+## GO
+- Name
+  - In-person meeting: ❔
+  - Site: []()
+  - Mailing List: []()
+  - Telegram: [Group]() • [Channel]()
+  - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
+  - Github: []()
 
 ### Java
 - In-person meeting: 🟢
-- Site: 
-- Telegram: 
-- Social:
+  - Site: []()
+  - Mailing List: []()
+  - Telegram: [Group]() • [Channel]()
+  - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
+  - Github: []()
   
 ### Linux
-#### Linux
 - Tehran Linux User Group (TehLUG)
   - In-person meeting: 🟢
   - Site: [tehlug.org](https://tehlug.org/) 
@@ -112,7 +125,6 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [LinkedIn](https://linkedin.com/company/tehlug) • [Twitter](https://x.com/tehlug)
   - Github: [tehlug](https://github.com/tehlug) 
 
-#### Embedded Linux
 - Embedded Linux User Group (E-LUG)
   - In-person meeting: 🟢
   - Site: [elugiran.github.io](https://elugiran.github.io/)
@@ -135,6 +147,15 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Telegram: [Group](https://t.me/ir_python) • [Channel](https://t.me/tehpug_ir)
   - Social: [LinkedIn](https://www.linkedin.com/company/tehpug/) • [Twitter](https://twitter.com/TehPUG) • [youtube](https://www.youtube.com/@tehpug) • [Facebook](https://facebook.com/TehPUG) • [Mastodon](https://mastodon.social/@TehPUG) • [Instagram](https://www.instagram.com/tehpug.ir) • [pixelfed](https://pixelfed.social/tehpug)
   - Github: [tehpug](https://github.com/tehpug)
+
+### Rust
+- ?
+  - In-person meeting: 🟢
+  - Site: []()
+  - Mailing List: []()
+  - Telegram: [Group]() • [Channel]()
+  - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
+  - Github: []()
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
