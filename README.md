@@ -165,7 +165,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 ### Virtuals
 - Wikimedians
   - In-person meeting: 🔴
-  - Telegram: [Group](https://www.instagram.com/wikipedia_fa/) • [Channel](https://t.me/wikimedia_Iran)
+  - Telegram: [Group](https://t.me/iranwikimedia) • [Channel](https://t.me/wikimedia_Iran)
 
 - OpenStreetMap User Group
   - In-person meeting: 🔴
