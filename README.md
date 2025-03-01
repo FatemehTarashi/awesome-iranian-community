@@ -4,14 +4,9 @@ In Iran, tech communities are active in various cities with the goal of promotin
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 - [Gilan](#gilan)
-  - [Python](#python)
 - [karaj](#karaj)
-  - [Linux](#linux)  
 - [Mashhad](#mashhad)
-  - [Linux](#linux)
-  - [Python](#python)
 - [Shiraz](#shiraz)
-  - [Linux](#linux) 
 - [Tehran](#tehran)
   - [Business Intelligence](#business-intelligence) 
   - [Data Engineer](#data-engineer)
@@ -22,6 +17,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - [Network](#network)
   - [Python](#python)
   - [Rust](#rust)
+- [Urmia](#urmia)
 - [Zanjan](#zanjan)
 
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
@@ -36,17 +32,14 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: []()
 
 ## Gilan
-### Python
 - Gilan's Python User Group (GilPUG) 
   - In-person meeting: ❔
   - Site: [gilpug.ir](https://gilpug.ir/) 🔴
-  - Mailing List: []()
   - Telegram: [Group](https://t.me/gilpug)
   - Social: [Instagram](https://instagram.com/gilpug) 
   - Github: [gilpug](https://github.com/gilpug)
 
 ## Karaj
-### Linux
 - Karaj Linux User Group (KarajLUG) 
   - In-person meeting: ❔
   - Site: [karajlug.org](https://karajlug.org/) 
@@ -55,7 +48,6 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: [karajlug](https://github.com/karajlug)
 
 ## Mashhad
-### Linux 
 - Mashhad Linux User Group (MashhadLUG) 
   - In-person meeting: 🟢
   - Site: [mashhadlug.org](http://mashhadlug.org/) 🔴
@@ -63,14 +55,11 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [Twitter](https://x.com/mashhadlug) 
   - Github: [mashhadlug](https://github.com/mashhadlug)
 
-### Python
 - Mashhad Python User Group (MashhadPUG) 
   - In-person meeting: ❔
   - Mailing List: [https://mail.python.org/mailman/listinfo/mashhadpug](https://mail.python.org/mailman/listinfo/mashhadpug)
 
-
 ## Shiraz
-### Linux 
 - Shiraz Linux User Group (ShirazLUG) 
   - In-person meeting: 🟢
   - Site: [shirazlug.ir](https://shirazlug.ir/)
@@ -110,12 +99,10 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: []()
 
 ### Java
-- In-person meeting: 🟢
-  - Site: []()
-  - Mailing List: []()
-  - Telegram: [Group]() • [Channel]()
-  - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
-  - Github: []()
+- Java Users Group
+  - In-person meeting: 🟢
+  - Site: [ijug.ir](https://ijug.ir/)
+  - Email: info@ijug.ir
   
 ### Linux
 - Tehran Linux User Group (TehLUG)
@@ -159,4 +146,12 @@ In Iran, tech communities are active in various cities with the goal of promotin
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
+### Urmia
+- UrumLug
+  - In-person meeting: 🟢
+  - Site: [urumlug.ir](https://urumlug.ir/)
+  - Telegram: [Group](https://t.me/urumlug) 
+  - Social: [Twitter](https://x.com/urumlug) • [Instagram](https://www.instagram.com/urumlug/) 
+
+  
 ### Zanjan
