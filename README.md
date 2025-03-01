@@ -33,7 +33,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: []()
 
 ## Gilan
-- Gilan's Python User Group (GilPUG) 
+- Gilan's Python User Group (GilPUG)    Since 2020?
   - In-person meeting: ❔
   - Site: [gilpug.ir](https://gilpug.ir/) 🔴
   - Telegram: [Group](https://t.me/gilpug)
@@ -41,12 +41,12 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: [gilpug](https://github.com/gilpug)
 
 ## Isfahanl
-- Isfahanl Linux User Group (KarajLUG) 
+- Isfahanl Linux User Group (KarajLUG)    Since 2007 - ?
   - In-person meeting: ❔
   - Site: [IsfahanLUG.org](IsfahanLUG.org) & [elug.ir](https://www.elug.ir/doku.php?id=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D9%85%D8%A7)
 
 ## Karaj
-- Karaj Linux User Group (KarajLUG) 
+- Karaj Linux User Group (KarajLUG)    Since 2008 - 2023
   - In-person meeting: ❔
   - Site: [karajlug.org](https://karajlug.org/) 
   - Telegram: [Group](https://t.me/karajlug)
@@ -61,7 +61,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [Twitter](https://x.com/mashhadlug) 
   - Github: [mashhadlug](https://github.com/mashhadlug)
 
-- Mashhad Python User Group (MashhadPUG) 
+- Mashhad Python User Group (MashhadPUG)
   - In-person meeting: ❔
   - Mailing List: [https://mail.python.org/mailman/listinfo/mashhadpug](https://mail.python.org/mailman/listinfo/mashhadpug)
 
@@ -111,7 +111,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Email: info@ijug.ir
   
 ### Linux
-- Tehran Linux User Group (TehLUG)
+- Tehran Linux User Group (TehLUG)    Since 2004 - Present
   - In-person meeting: 🟢
   - Site: [tehlug.org](https://tehlug.org/) 
   - Telegram: [Group](https://t.me/TehlugGp) • [Channel](https://t.me/TehranLUG) 
@@ -133,7 +133,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [LinkedIn](https://www.linkedin.com/company/irnog/) • [Twitter](https://twitter.com/irannog) • [instagram](https://www.instagram.com/irnog/) 
   
 ### Python
-- Tehran Python User Group (TehPUG)
+- Tehran Python User Group (TehPUG)    Since 2013 - Present
   - In-person meeting: 🟢
   - Site:  [tehpug.ir](https://tehpug.ir)
   - Email: info@tehpug.ir •  Mailing List: [http://mail.python.org/mailman/listinfo/tehpug](http://mail.python.org/mailman/listinfo/tehpug)
@@ -142,13 +142,12 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: [tehpug](https://github.com/tehpug)
 
 ### Rust
-- ?
+- Rust Meetup in Iran
   - In-person meeting: 🟢
-  - Site: []()
-  - Mailing List: []()
-  - Telegram: [Group]() • [Channel]()
-  - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
-  - Github: []()
+  - Site: [ust-meetup.ir](https://rust-meetup.ir/)
+  - Telegram: [Group](http://t.me/rust_persian)
+  - Social: [Twitter](https://twitter.com/Rust_ir)
+  - Github: [rust-meetup](https://github.com/rust-meetup)
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
