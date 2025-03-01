@@ -91,7 +91,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [youtube](https://youtube.com/@DataEngineerGuys-fp2xj?si=d_7V3vvkpXpULRCX) • [Instagram](https://www.instagram.com/Data_Engineer_Guys) 
 
 ### Free Knowledge
-- Free Knowledge Foundation
+- Free Knowledge Foundation    Since 2011 -2017
   - In-person meeting: ❔
   - Site: [wiki.lfkf.org](https://wiki.lfkf.org/)
  
@@ -100,8 +100,8 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - In-person meeting: ❔
   - Site: []()
   - Mailing List: []()
-  - Telegram: [Group]() • [Channel]()
-  - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
+  - Telegram: []()
+  - Social: []()
   - Github: []()
 
 ### Java
