@@ -21,6 +21,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - [Urmia](#urmia)
 - [Zanjan](#zanjan)
 
+- [Virtuals](#virtuals)
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
 ## example Topic
@@ -155,8 +156,17 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - UrumLug
   - In-person meeting: 🟢
   - Site: [urumlug.ir](https://urumlug.ir/)
-  - Telegram: [Group](https://t.me/urumlug) 
+  - Telegram: [Group](https://t.me/Urumlug_group) • [Channel](https://t.me/urumlug)
   - Social: [Twitter](https://x.com/urumlug) • [Instagram](https://www.instagram.com/urumlug/) 
 
   
 ### Zanjan
+
+### Virtuals
+- Wikimedians
+  - In-person meeting: 🔴
+  - Telegram: [Group](https://www.instagram.com/wikipedia_fa/) • [Channel](https://t.me/wikimedia_Iran)
+
+- OpenStreetMap User Group
+  - In-person meeting: 🔴
+  - Telegram: [Group](https://t.me/osmUsersGroup)
