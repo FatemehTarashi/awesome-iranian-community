@@ -9,23 +9,23 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - [Mashhad](#mashhad)
 - [Shiraz](#shiraz)
 - [Tehran](#tehran)
+  - [Android](#android) 
   - [Business Intelligence](#business-intelligence) 
   - [Data Engineer](#data-engineer)
   - [Free Knowledge](#free-knowledge)
-  - [Go](#go)
   - [Java](#java)
   - [Linux](#linux)
   - [Network](#network)
   - [Python](#python)
   - [Rust](#rust)
 - [Urmia](#urmia)
-- [Zanjan](#zanjan)
 
 - [Virtuals](#virtuals)
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
-## example Topic
-- Name
+## example City
+### example Topic
+- Name &nbsp;&nbsp;&nbsp;&nbsp; Since ? - ?|Present
   - In-person meeting: ❔🟢🔴
   - Site: []()
   - Mailing List: []()
@@ -34,20 +34,18 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: []()
 
 ## Gilan
-- Gilan's Python User Group (GilPUG)    Since 2020?
+- Gilan's Python User Group (GilPUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2020 - 2020
   - In-person meeting: ❔
-  - Site: [gilpug.ir](https://gilpug.ir/) 🔴
-  - Telegram: [Group](https://t.me/gilpug)
   - Social: [Instagram](https://instagram.com/gilpug) 
   - Github: [gilpug](https://github.com/gilpug)
 
 ## Isfahanl
-- Isfahanl Linux User Group (KarajLUG)    Since 2007 - ?
+- Isfahanl Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2007 - ?
   - In-person meeting: ❔
   - Site: [IsfahanLUG.org](IsfahanLUG.org) & [elug.ir](https://www.elug.ir/doku.php?id=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D9%85%D8%A7)
 
 ## Karaj
-- Karaj Linux User Group (KarajLUG)    Since 2008 - 2023
+- Karaj Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2008 - Present
   - In-person meeting: ❔
   - Site: [karajlug.org](https://karajlug.org/) 
   - Telegram: [Group](https://t.me/karajlug)
@@ -55,19 +53,17 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: [karajlug](https://github.com/karajlug)
 
 ## Mashhad
-- Mashhad Linux User Group (MashhadLUG) 
+- Mashhad Linux User Group (MashhadLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
-  - Site: [mashhadlug.org](http://mashhadlug.org/) 🔴
-  - Telegram: 
   - Social: [Twitter](https://x.com/mashhadlug) 
   - Github: [mashhadlug](https://github.com/mashhadlug)
 
-- Mashhad Python User Group (MashhadPUG)
+- Mashhad Python User Group (MashhadPUG) • Since ? - ?
   - In-person meeting: ❔
   - Mailing List: [https://mail.python.org/mailman/listinfo/mashhadpug](https://mail.python.org/mailman/listinfo/mashhadpug)
 
 ## Shiraz
-- Shiraz Linux User Group (ShirazLUG) 
+- Shiraz Linux User Group (ShirazLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Site: [shirazlug.ir](https://shirazlug.ir/)
   - Email: contact@shirazlug.ir
@@ -78,48 +74,47 @@ In Iran, tech communities are active in various cities with the goal of promotin
 
 ## Tehran
 
+### Android
+- Tehran Android Developers (logcat) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017? - Present
+  - In-person meeting: 🟢
+  - Site: [irlogcat.ir](https://irlogcat.ir/)
+  - Telegram: [Channel](https://t.me/irlogcat)
+  - Social: [Twitter](http://twitter.com/irlogcat) • [youtube](http://youtube.com/c/irlogcat) • [Instagram](http://instagram.com/logcatir) 
+  - Github: [irlogcat](https://github.com/irlogcat/)
+
 ### Business Intelligence
-- Business intelligence and data mining network(BDN)
+- Business intelligence and data mining network(BDN) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Telegram: [Group](https://t.me/datamining_and_bi) 
   - Social: [LinkedIn](https://www.linkedin.com/company/business-intelligence-and-data-mining-network-of-iran/) • [Instagram](www.instagram.com/bi.datamining.network/) 
 
 ### Data Engineer
-- DataEngineerGuys 
+- DataEngineerGuys &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Site: [dataengineerguys.com](https://dataengineerguys.com) 
   - Telegram: [Group](https://t.me/DataEngineerGuys)
   - Social: [youtube](https://youtube.com/@DataEngineerGuys-fp2xj?si=d_7V3vvkpXpULRCX) • [Instagram](https://www.instagram.com/Data_Engineer_Guys) 
 
 ### Free Knowledge
-- Free Knowledge Foundation    Since 2011 -2017
+- Free Knowledge Foundation &nbsp;&nbsp;&nbsp;&nbsp; Since 2011 -2017
   - In-person meeting: ❔
   - Site: [wiki.lfkf.org](https://wiki.lfkf.org/)
- 
-## GO
-- Name
-  - In-person meeting: ❔
-  - Site: []()
-  - Mailing List: []()
-  - Telegram: []()
-  - Social: []()
-  - Github: []()
 
 ### Java
-- Java Users Group
+- Java Users Group &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Site: [ijug.ir](https://ijug.ir/)
   - Email: info@ijug.ir
   
 ### Linux
-- Tehran Linux User Group (TehLUG)    Since 2004 - Present
+- Tehran Linux User Group (TehLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2004 - Present
   - In-person meeting: 🟢
   - Site: [tehlug.org](https://tehlug.org/) 
   - Telegram: [Group](https://t.me/TehlugGp) • [Channel](https://t.me/TehranLUG) 
   - Social: [LinkedIn](https://linkedin.com/company/tehlug) • [Twitter](https://x.com/tehlug)
   - Github: [tehlug](https://github.com/tehlug) 
 
-- Embedded Linux User Group (E-LUG)
+- Embedded Linux User Group (E-LUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
   - In-person meeting: 🟢
   - Site: [elugiran.github.io](https://elugiran.github.io/)
   - Telegram: [Group](https://t.me/elugiran)
@@ -127,14 +122,14 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: [elugiran](https://github.com/elugiran)
 
 ### Network
-- Iranian Internet Network Operators Group (IRNOG)
+- Iranian Internet Network Operators Group (IRNOG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017 - Present
   - In-person meeting: 🟢
   - Site: [irnog.net](https://www.irnog.net/)
   - Telegram: [Group](https://t.me/irnog)
   - Social: [LinkedIn](https://www.linkedin.com/company/irnog/) • [Twitter](https://twitter.com/irannog) • [instagram](https://www.instagram.com/irnog/) 
   
 ### Python
-- Tehran Python User Group (TehPUG)    Since 2013 - Present
+- Tehran Python User Group (TehPUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2013 - Present
   - In-person meeting: 🟢
   - Site:  [tehpug.ir](https://tehpug.ir)
   - Email: info@tehpug.ir •  Mailing List: [http://mail.python.org/mailman/listinfo/tehpug](http://mail.python.org/mailman/listinfo/tehpug)
@@ -143,24 +138,19 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: [tehpug](https://github.com/tehpug)
 
 ### Rust
-- Rust Meetup in Iran
+- Rust Meetup in Iran &nbsp;&nbsp;&nbsp;&nbsp; Since 2021 - Present
   - In-person meeting: 🟢
   - Site: [ust-meetup.ir](https://rust-meetup.ir/)
   - Telegram: [Group](http://t.me/rust_persian)
   - Social: [Twitter](https://twitter.com/Rust_ir)
   - Github: [rust-meetup](https://github.com/rust-meetup)
 
-<!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
-
 ### Urmia
-- UrumLug
+- UrumLug &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Site: [urumlug.ir](https://urumlug.ir/)
   - Telegram: [Group](https://t.me/Urumlug_group) • [Channel](https://t.me/urumlug)
   - Social: [Twitter](https://x.com/urumlug) • [Instagram](https://www.instagram.com/urumlug/) 
-
-  
-### Zanjan
 
 ### Virtuals
 - Wikimedians
