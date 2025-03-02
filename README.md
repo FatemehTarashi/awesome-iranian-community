@@ -50,7 +50,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - In-person meeting: 🟢
   - Site: [fasalug.ir](https://fasalug.ir/)
   - Telegram: [Group](https://t.me/FasaLUG) 
-  - Social: [Instagram](https://instagram.com/fasalug.ir)
+  - Social: [LinkedIn](https://www.linkedin.com/company/fasalug/) • [Instagram](https://instagram.com/fasalug.ir)
   - Github: [FasaLug](https://github.com/FasaLug)
 
 
