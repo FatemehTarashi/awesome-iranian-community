@@ -12,9 +12,11 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - [Android](#android) 
   - [Business Intelligence](#business-intelligence) 
   - [Data Engineer](#data-engineer)
+  - [DevOps](#devops)
   - [Free Knowledge](#free-knowledge)
   - [Java](#java)
   - [Linux](#linux)
+  - [Marketing](#marketing)
   - [Network](#network)
   - [Python](#python)
   - [Rust](#rust)
@@ -94,6 +96,13 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Telegram: [Group](https://t.me/DataEngineerGuys)
   - Social: [youtube](https://youtube.com/@DataEngineerGuys-fp2xj?si=d_7V3vvkpXpULRCX) • [Instagram](https://www.instagram.com/Data_Engineer_Guys) 
 
+### DevOps
+- abrha (DevOps and programming) &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
+  - In-person meeting: 🟢
+  - Site: [https://abrh.ir/enjoy](https://abrh.ir/enjoy)
+  - Telegram: [Group](https://t.me/abrha_events) 
+  - Social: [Instagram](https://www.instagram.com/abrhacom/)
+
 ### Free Knowledge
 - Free Knowledge Foundation &nbsp;&nbsp;&nbsp;&nbsp; Since 2011 -2017
   - In-person meeting: ⚫
@@ -120,6 +129,10 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [LinkedIn](https://linkedin.com/elugiran) • [youtube](https://www.youtube.com/elugiran)
   - Github: [elugiran](https://github.com/elugiran)
 
+### Marketing
+- MUG (Marketing and business development) &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
+  - In-person meeting: 🟢
+    
 ### Network
 - Iranian Internet Network Operators Group (IRNOG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017 - Present
   - In-person meeting: 🟢
