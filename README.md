@@ -58,7 +58,8 @@ In Iran, tech communities are active in various cities with the goal of promotin
 ## Karaj
 - Karaj Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2008 - Present
   - In-person meeting: 🟢
-  - Site: [karajlug.org](https://karajlug.org/) 
+  - Site: [karajlug.org](https://karajlug.org/)
+  - Telegram: [Group](https://t.me/+QRReI-w2ZJ8V5r4l)
   - Social: [Twitter](https://twitter.com/karajlug) • [Instagram](https://instagram.com/karajlug)
   - Github: [karajlug](https://github.com/karajlug)
 
