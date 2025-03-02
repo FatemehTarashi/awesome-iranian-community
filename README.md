@@ -76,7 +76,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 ## Tehran
 
 ### Android
-- Tehran Android Developers (logcat) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017? - Present
+- Tehran Android Developers (logcat) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017 - Present
   - In-person meeting: 🟢
   - Site: [irlogcat.ir](https://irlogcat.ir/)
   - Telegram: [Channel](https://t.me/irlogcat)
