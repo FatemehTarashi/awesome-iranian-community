@@ -4,6 +4,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 - [Birjand](#birjand)
+- [Fasa](#fasa)
 - [Gilan](#gilan)
 - [Isfahanl](#isfahanl)
 - [Karaj](#karaj)
@@ -43,6 +44,15 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Telegram: [Group](https://t.me/birlug)
   - Social: [Instagram](https://instagram.com/birjandlug)
   - Github: [birlug](https://github.com/birlug)
+
+### Fasa
+- Fasa Linux User Group (FasaLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - ?|Present
+  - In-person meeting: 🟢
+  - Site: [fasalug.ir](https://fasalug.ir/)
+  - Telegram: [Group](https://t.me/FasaLUG) 
+  - Social: [Instagram](https://instagram.com/fasalug.ir)
+  - Github: [FasaLug](https://github.com/FasaLug)
+
 
 ## Gilan
 - Gilan's Python User Group (GilPUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2020 - 2020
