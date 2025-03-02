@@ -96,7 +96,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 
 ### Free Knowledge
 - Free Knowledge Foundation &nbsp;&nbsp;&nbsp;&nbsp; Since 2011 -2017
-  - In-person meeting: ❔
+  - In-person meeting: ⚫
   - Site: [wiki.lfkf.org](https://wiki.lfkf.org/)
 
 ### Java
