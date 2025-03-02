@@ -99,7 +99,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 ### DevOps
 - abrha (DevOps and programming) &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
   - In-person meeting: 🟢
-  - Site: [https://abrh.ir/enjoy](https://abrh.ir/enjoy)
+  - Site: [abrh.ir/enjoy](https://abrh.ir/enjoy)
   - Telegram: [Group](https://t.me/abrha_events) 
   - Social: [Instagram](https://www.instagram.com/abrhacom/)
 
