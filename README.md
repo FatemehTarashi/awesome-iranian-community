@@ -26,16 +26,16 @@ In Iran, tech communities are active in various cities with the goal of promotin
 ## example City
 ### example Topic
 - Name &nbsp;&nbsp;&nbsp;&nbsp; Since ? - ?|Present
-  - In-person meeting: ❔🟢🔴
+  - In-person meeting: ❔🟢🔴 [⚫ for dead community]
   - Site: []()
-  - Mailing List: []()
+  - Email: • Mailing List: []()
   - Telegram: [Group]() • [Channel]()
   - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
   - Github: []()
 
 ## Gilan
 - Gilan's Python User Group (GilPUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2020 - 2020
-  - In-person meeting: ❔
+  - In-person meeting: ⚫
   - Social: [Instagram](https://instagram.com/gilpug) 
   - Github: [gilpug](https://github.com/gilpug)
 
@@ -46,9 +46,8 @@ In Iran, tech communities are active in various cities with the goal of promotin
 
 ## Karaj
 - Karaj Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2008 - Present
-  - In-person meeting: ❔
+  - In-person meeting: 🟢
   - Site: [karajlug.org](https://karajlug.org/) 
-  - Telegram: [Group](https://t.me/karajlug)
   - Social: [Twitter](https://twitter.com/karajlug) • [Instagram](https://instagram.com/karajlug)
   - Github: [karajlug](https://github.com/karajlug)
 
