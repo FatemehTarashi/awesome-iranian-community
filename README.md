@@ -132,7 +132,8 @@ In Iran, tech communities are active in various cities with the goal of promotin
 ### Marketing
 - MUG (Marketing and business development) &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
   - In-person meeting: 🟢
-    
+  - Telegram: [Group](https://t.me/mugevents)
+        
 ### Network
 - Iranian Internet Network Operators Group (IRNOG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017 - Present
   - In-person meeting: 🟢
