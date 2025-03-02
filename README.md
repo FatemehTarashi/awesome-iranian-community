@@ -76,6 +76,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 ## Mashhad
 - Mashhad Linux User Group (MashhadLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
+  - Telegram: [Channel](https://t.me/mashhadlug)
   - Social: [Twitter](https://x.com/mashhadlug) 
   - Github: [mashhadlug](https://github.com/mashhadlug)
 
