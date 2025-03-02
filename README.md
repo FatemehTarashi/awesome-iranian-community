@@ -93,9 +93,10 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [LinkedIn](https://www.linkedin.com/company/shirazlug/) • [Twitter](https://twitter.com/ShirazLUG_ir) • [Mastodon](https://mastodon.social/@ShirazLUG) • [Instagram](https://www.instagram.com/ShirazLUG.ir/)
   - Github: [shirazlug](https://github.com/shirazlug/)
 
-- ShirazTux &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
+- Shiraz Tux &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
   - In-person meeting: 🟢
   - Telegram: [Group](https://t.me/shiraztux)
+  - Social: [LinkedIn](https://www.linkedin.com/company/shiraz-tux-group/)
 
 ## Tehran
 ### Android
