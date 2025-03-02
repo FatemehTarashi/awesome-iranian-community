@@ -3,6 +3,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
+- [Birjand](#birjand)
 - [Gilan](#gilan)
 - [Isfahanl](#isfahanl)
 - [Karaj](#karaj)
@@ -34,6 +35,14 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Telegram: [Group]() • [Channel]()
   - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
   - Github: []()
+
+### Birjand
+- Birjand Linux Users Group (birlug) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
+  - In-person meeting: 🟢
+  - Site: [birlug.ir](https://birlug.ir/)
+  - Telegram: [Group](https://t.me/birlug)
+  - Social: [Instagram](https://instagram.com/birjandlug)
+  - Github: [birlug](https://github.com/birlug)
 
 ## Gilan
 - Gilan's Python User Group (GilPUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2020 - 2020
