@@ -46,7 +46,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: [birlug](https://github.com/birlug)
 
 ### Fasa
-- Fasa Linux User Group (FasaLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - ?|Present
+- Fasa Linux User Group (FasaLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Site: [fasalug.ir](https://fasalug.ir/)
   - Telegram: [Group](https://t.me/lugfasa) • [Channel](https://t.me/FasaLUG)
