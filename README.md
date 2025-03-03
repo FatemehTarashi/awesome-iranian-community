@@ -35,7 +35,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Site: []()
   - Email: • Mailing List: []()
   - Telegram: [Group]() • [Channel]()
-  - Social: [LinkedIn]() • [Twitter]() • [youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [pixelfed]()
+  - Social: [LinkedIn]() • [Twitter]() • [Youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [Pixelfed]() • [Peertube]()
   - Github: []()
 
 ### Birjand
