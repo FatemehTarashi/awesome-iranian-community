@@ -9,6 +9,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - [Isfahanl](#isfahanl)
 - [Jahrom](#jahrom)
 - [Karaj](#karaj)
+- [Kerman](#kerman)
 - [Mashhad](#mashhad)
 - [Shiraz](#shiraz)
 - [Tehran](#tehran)
@@ -28,6 +29,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - [Virtuals](#virtuals)
   - [Front-End](#front-end)
   - [OpenStreetMap](#openstreetmap)
+  - [Parch Linux](#parch-linux)
   - [Wikipedia](#wikipedia)
  
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
@@ -83,6 +85,11 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Telegram: [Group](https://t.me/+QRReI-w2ZJ8V5r4l)
   - Social: [Twitter](https://twitter.com/karajlug) • [Instagram](https://instagram.com/karajlug)
   - Github: [karajlug](https://github.com/karajlug)
+
+## Kerman
+- Electronics and Embedded &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
+  - In-person meeting: 🟢
+  - Telegram: [Channel](https://t.me/event_sisoog)
 
 ## Mashhad
 - Ferdowsi University of Mashhad Linux users group (FUMLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
@@ -210,7 +217,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 
 ## Virtuals
 ### Front-End
-- FrontChapter &nbsp;&nbsp;&nbsp;&nbsp; Since - Present
+- FrontChapter &nbsp;&nbsp;&nbsp;&nbsp; 
   - In-person meeting: 🟢
   - Site: [frontchapter.ir](https://frontchapter.ir/)
   - Telegram: [Group](https://t.me/frontChapterGroup) • [Channel](https://t.me/FrontChapter)
@@ -220,10 +227,16 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - In-person meeting: 🔴
   - Telegram: [Group](https://t.me/osmUsersGroup)
 
+### Parch Linux
+- Parch Linux 
+  - In-person meeting: 🔴
+  - Telegram: [Group]() • [Channel](https://t.me/parchlinux)
+
 ### Wikipedia
 - Wikimedians
   - In-person meeting: 🔴
   - Telegram: [Group](https://t.me/iranwikimedia) • [Channel](https://t.me/wikimedia_Iran)
 
  
+
 
