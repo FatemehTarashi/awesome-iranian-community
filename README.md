@@ -7,6 +7,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - [Fasa](#fasa)
 - [Gilan](#gilan)
 - [Isfahanl](#isfahanl)
+- [Jahrom](#jahrom)
 - [Karaj](#karaj)
 - [Mashhad](#mashhad)
 - [Shiraz](#shiraz)
@@ -64,6 +65,12 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - Isfahanl Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2007 - ?
   - In-person meeting: ❔
   - Site: [IsfahanLUG.org](IsfahanLUG.org) & [elug.ir](https://www.elug.ir/doku.php?id=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D9%85%D8%A7)
+
+### Jahrom
+- Jahrom Linux User Group (JahromLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
+  - In-person meeting: 🟢
+  - Telegram: [Channel](https://t.me/Jahrom_LUG)
+  - Social: [Instagram](https://www.instagram.com/jahrom_lug) 
 
 ## Karaj
 - Karaj Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2008 - Present
