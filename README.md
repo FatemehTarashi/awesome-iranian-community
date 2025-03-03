@@ -1,5 +1,5 @@
 # awesome-community
-In Iran, tech communities are active in various cities with the goal of promoting education and sharing knowledge in different programming languages and technologies. Below are some of the main tech communities by city in Iran.
+In Iran, tech communities are active in various cities with the goal of promoting education and sharing knowledge in different programming languages and technologies. Below are some of the main tech communities by city in Iran. There is also a small section reserved for events outside Iran.
 
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
@@ -31,6 +31,9 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - [OpenStreetMap](#openstreetmap)
   - [Parch Linux](#parch-linux)
   - [Wikipedia](#wikipedia)
+    
+- [Abroad](#abroad)
+  - [Europe](#europe)
  
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
@@ -235,7 +238,16 @@ In Iran, tech communities are active in various cities with the goal of promotin
 ### Wikipedia
 - Wikimedians
   - In-person meeting: 🔴
-  - Telegram: [Group](https://t.me/iranwikimedia) • [Channel](https://t.me/wikimedia_Iran)
+  - Telegram: [Group](https://t.me/iranwikimedia) • [Channel](https://t.me/wikimedia_Iran) 
+
+## Abroad
+### Europe
+- persianlug &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
+  - In-person meeting: 🟢
+  - Site: [persianlug.com](https://persianlug.com/)
+  - Telegram: [Group](https://t.me/persianlug) 
+  - Social: [Twitter](https://x.com/persianlug) • [Instagram](https://www.instagram.com/persian.lug)
+  - Github: [persianlug](https://github.com/persianlug)
 
  
 
