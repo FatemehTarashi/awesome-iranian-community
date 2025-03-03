@@ -1,5 +1,5 @@
 # awesome-community
-In Iran, tech communities are active in various cities, aiming to promote education and share knowledge across different programming languages and technologies. Below are some of the main tech communities categorized by city in Iran. Additionally, a small section is dedicated to events outside the country.
+In Iran, tech communities are active in various cities, aiming to promote education and share knowledge across different programming languages and technologies. Below are some of the main tech communities categorized by city in Iran. Additionally, a small section is dedicated to events [outside the country.](https://github.com/FatemehTarashi/awesome-iranian-community/tree/main?tab=readme-ov-file#abroad)
 
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
@@ -245,6 +245,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - persianlug &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
   - In-person meeting: 🟢
   - Site: [persianlug.com](https://persianlug.com/)
+  - Email: persianlug@gmail.com
   - Telegram: [Group](https://t.me/persianlug) 
   - Social: [Twitter](https://x.com/persianlug) • [Instagram](https://www.instagram.com/persian.lug)
   - Github: [persianlug](https://github.com/persianlug)
