@@ -81,6 +81,14 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Github: [karajlug](https://github.com/karajlug)
 
 ## Mashhad
+- Ferdowsi University of Mashhad Linux users group (FUMLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
+  - In-person meeting: 🟢
+  - Site: [fumlug.um.ac.ir](fumlug.um.ac.ir)
+  - Email: • Mailing List: []()
+  - Telegram: [Group](https://t.me/ferdowsilug) • [Channel](https://t.me/fum_lug)
+  - Social: [peertube](https://tubedu.org/c/ferdowsilug)
+  - Git: [codeberg.org/FUMLUG](https://codeberg.org/FUMLUG)
+
 - Mashhad Linux User Group (MashhadLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Telegram: [Channel](https://t.me/mashhadlug)
