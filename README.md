@@ -242,11 +242,11 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 
 ## Abroad
 ### Europe
-- persianlug &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
+- Persian Linux User Group (persianlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
   - In-person meeting: 🟢
   - Site: [persianlug.com](https://persianlug.com/)
   - Email: persianlug@gmail.com
-  - Telegram: [Group](https://t.me/persianlug) 
+  - Telegram: [Group](https://t.me/persianlug_chat) • [Channel](https://t.me/persianlug) 
   - Social: [Twitter](https://x.com/persianlug) • [Instagram](https://www.instagram.com/persian.lug)
   - Github: [persianlug](https://github.com/persianlug)
 
