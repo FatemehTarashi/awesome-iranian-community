@@ -26,6 +26,10 @@ In Iran, tech communities are active in various cities with the goal of promotin
 - [Urmia](#urmia)
 
 - [Virtuals](#virtuals)
+  - [Front-End](#front-end)
+  - [OpenStreetMap](#openstreetmap)
+  - [Wikipedia](#wikipedia)
+ 
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
 ## example City
@@ -38,7 +42,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [LinkedIn]() • [Twitter]() • [Youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [Pixelfed]() • [Peertube]()
   - Github: []()
 
-### Birjand
+## Birjand
 - Birjand Linux Users Group (birlug) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Site: [birlug.ir](https://birlug.ir/)
@@ -46,7 +50,7 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [Instagram](https://instagram.com/birjandlug)
   - Github: [birlug](https://github.com/birlug)
 
-### Fasa
+## Fasa
 - Fasa Linux User Group (FasaLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Site: [fasalug.ir](https://fasalug.ir/)
@@ -197,23 +201,26 @@ In Iran, tech communities are active in various cities with the goal of promotin
   - Social: [Twitter](https://twitter.com/Rust_ir)
   - Github: [rust-meetup](https://github.com/rust-meetup)
 
-### Urmia
+## Urmia
 - UrumLug &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Site: [urumlug.ir](https://urumlug.ir/)
   - Telegram: [Group](https://t.me/Urumlug_group) • [Channel](https://t.me/urumlug)
   - Social: [Twitter](https://x.com/urumlug) • [Instagram](https://www.instagram.com/urumlug/) 
 
-### Virtuals
+## Virtuals
+### Front-End
 - FrontChapter &nbsp;&nbsp;&nbsp;&nbsp; Since - Present
   - In-person meeting: 🟢
   - Site: [frontchapter.ir](https://frontchapter.ir/)
   - Telegram: [Group](https://t.me/frontChapterGroup) • [Channel](https://t.me/FrontChapter)
 
+### OpenStreetMap
 - OpenStreetMap User Group
   - In-person meeting: 🔴
   - Telegram: [Group](https://t.me/osmUsersGroup)
 
+### Wikipedia
 - Wikimedians
   - In-person meeting: 🔴
   - Telegram: [Group](https://t.me/iranwikimedia) • [Channel](https://t.me/wikimedia_Iran)
