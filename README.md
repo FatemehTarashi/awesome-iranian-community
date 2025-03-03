@@ -1,5 +1,5 @@
 # awesome-community
-In Iran, tech communities are active in various cities with the goal of promoting education and sharing knowledge in different programming languages and technologies. Below are some of the main tech communities by city in Iran. There is also a small section reserved for events outside Iran.
+In Iran, tech communities are active in various cities, aiming to promote education and share knowledge across different programming languages and technologies. Below are some of the main tech communities categorized by city in Iran. Additionally, a small section is dedicated to events outside the country.
 
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
