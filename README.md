@@ -241,7 +241,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 ### Parch Linux
 - Parch Linux 
   - In-person meeting: 🔴
-  - Telegram: [Group]() • [Channel](https://t.me/parchlinux)
+  - Telegram: [English Group](https://t.me/parchlinux_en) • [Channel](https://t.me/parchlinux)
 
 ### Wikipedia
 - Wikimedians
