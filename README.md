@@ -27,6 +27,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - [Python](#python)
   - [Rust](#rust)
 - [Urmia](#urmia)
+- [Zanjan](#zanjan)
 
 - [Virtuals](#virtuals)
   - [Front-End](#front-end)
@@ -222,6 +223,13 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - Site: [urumlug.ir](https://urumlug.ir/)
   - Telegram: [Group](https://t.me/Urumlug_group) • [Channel](https://t.me/urumlug)
   - Social: [Twitter](https://x.com/urumlug) • [Instagram](https://www.instagram.com/urumlug/) 
+
+## Zanjan
+- Zanjan Linux User Group  &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
+  - In-person meeting: 🟢
+  - Site: [zanjanlug.ir](zanjanlug.ir)
+  - Telegram: [Group](https://t.me/zanjanlug) 
+ 
 
 ## Virtuals
 ### Front-End
