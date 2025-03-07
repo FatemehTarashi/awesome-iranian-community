@@ -39,16 +39,6 @@ In Iran, tech communities are active in various cities, aiming to promote educat
  
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
-## example City
-### example Topic
-- Name &nbsp;&nbsp;&nbsp;&nbsp; Since ? - ?|Present
-  - In-person meeting: ❔🟢🔴 [⚫ for dead community]
-  - Site: []()
-  - Email: • Mailing List: []()
-  - Telegram: [Group]() • [Channel]()
-  - Social: [LinkedIn]() • [Twitter]() • [Youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [Pixelfed]() • [Peertube]()
-  - Github: []()
-
 ## Birjand
 - Birjand Linux Users Group (birlug) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
