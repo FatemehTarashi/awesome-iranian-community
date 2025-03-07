@@ -1,4 +1,3 @@
-# awesome-community
 In Iran, tech communities are active in various cities, aiming to promote education and share knowledge across different programming languages and technologies. Below are some of the main tech communities categorized by city in Iran. Additionally, a small section is dedicated to events [outside the country.](https://github.com/FatemehTarashi/awesome-iranian-community/tree/main?tab=readme-ov-file#abroad)
 
 # Contents
