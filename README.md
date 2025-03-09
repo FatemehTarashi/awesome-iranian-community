@@ -15,6 +15,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - [Jahrom](#jahrom)
 - [Karaj](#karaj)
 - [Kerman](#kerman)
+- [Khuzestan](#khuzestan)
 - [Mashhad](#mashhad)
 - [Qom](#qom)
 - [Shiraz](#shiraz)
@@ -97,6 +98,12 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - Electronics and Embedded &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Telegram: [Channel](https://t.me/event_sisoog)
+
+## khuzestan
+- khuzestan Linux User Group (khuzestanlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2011 - Present
+  - In-person meeting: ⚫
+  - Site: [khuzestanlug.ir](http://khuzestanlug.ir/)
+
 
 ## Mashhad
 - Ferdowsi University of Mashhad Linux users group (FUMLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
