@@ -6,7 +6,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - [Fasa](#fasa)
 - [Gilan](#gilan)
 - [Hormozgan](#hormozgan)
-- [Isfahanl](#isfahanl)
+- [Isfahan](#isfahan)
 - [Jahrom](#jahrom)
 - [Karaj](#karaj)
 - [Kerman](#kerman)
@@ -68,8 +68,8 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - Telegram: [Group](https://t.me/HCC_Comp)
   - Social: [Instagram](https://www.instagram.com/hcc.comp/) 
 
-## Isfahanl
-- Isfahanl Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2007 - ?
+## Isfahan
+- Isfahan Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2007 - ?
   - In-person meeting: ❔
   - Site: [IsfahanLUG.org](IsfahanLUG.org) & [elug.ir](https://www.elug.ir/doku.php?id=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D9%85%D8%A7)
 
