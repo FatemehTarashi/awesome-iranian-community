@@ -16,6 +16,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - [Karaj](#karaj)
 - [Kerman](#kerman)
 - [Mashhad](#mashhad)
+- [Qom](#qom)
 - [Shiraz](#shiraz)
 - [Tehran](#tehran)
   - [Android](#android) 
@@ -115,6 +116,13 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - Mashhad Python User Group (MashhadPUG) • Since ? - ?
   - In-person meeting: ❔
   - Mailing List: [https://mail.python.org/mailman/listinfo/mashhadpug](https://mail.python.org/mailman/listinfo/mashhadpug)
+
+## Qom 
+- Qom Open Source Community (QomOSC) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017 - Present
+  - In-person meeting: 🟢
+  - Site: [qomosc.github.io](https://qomosc.github.io/)
+  - Telegram: [Group](https://t.me/joinchat/Dx-P20A_XyBMGdC6zZ_wAQ) • [Channel](https://t.me/QomOSC)
+  - Github: [QomOSC](https://github.com/QomOSC)
 
 ## Shiraz
 - Shiraz Linux User Group (ShirazLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
