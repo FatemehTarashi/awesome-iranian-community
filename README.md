@@ -1,5 +1,10 @@
 In Iran, tech communities are active in various cities, aiming to promote education and share knowledge across different programming languages and technologies. Below are some of the main tech communities categorized by city in Iran. Additionally, a small section is dedicated to events [outside the country.](https://github.com/FatemehTarashi/awesome-iranian-community/tree/main?tab=readme-ov-file#abroad)
 
+❔ Status unknown |
+🟢 In-person meeting |
+🔴 Virtual meeting |
+⚫ Dead community
+
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 - [Birjand](#birjand)
@@ -73,7 +78,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - In-person meeting: ❔
   - Site: [IsfahanLUG.org](IsfahanLUG.org) & [elug.ir](https://www.elug.ir/doku.php?id=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D9%85%D8%A7)
 
-### Jahrom
+## Jahrom
 - Jahrom Linux User Group (JahromLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
   - Telegram: [Channel](https://t.me/Jahrom_LUG)
