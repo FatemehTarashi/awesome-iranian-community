@@ -118,11 +118,17 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - Mailing List: [https://mail.python.org/mailman/listinfo/mashhadpug](https://mail.python.org/mailman/listinfo/mashhadpug)
 
 ## Qom 
+- Qom Linux User Group (QomLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2012 - 2017
+  - In-person meeting: ⚫
+  - Site: [mahdimajidzadeh.github.io/qomlug](https://mahdimajidzadeh.github.io/qomlug/)
+  - Social: [Facebook](https://www.facebook.com/QomLug/)
+
 - Qom Open Source Community (QomOSC) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017 - Present
   - In-person meeting: 🟢
   - Site: [qomosc.github.io](https://qomosc.github.io/)
   - Telegram: [Group](https://t.me/joinchat/Dx-P20A_XyBMGdC6zZ_wAQ) • [Channel](https://t.me/QomOSC)
   - Github: [QomOSC](https://github.com/QomOSC)
+
 
 ## Shiraz
 - Shiraz Linux User Group (ShirazLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
