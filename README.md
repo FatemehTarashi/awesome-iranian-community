@@ -69,7 +69,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - Social: [Instagram](https://www.instagram.com/hcc.comp/) 
 
 ## Isfahan
-- Isfahan Linux User Group (KarajLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2007 - ?
+- Isfahan Linux User Group (IsfahanLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2007 - ?
   - In-person meeting: ❔
   - Site: [IsfahanLUG.org](IsfahanLUG.org) & [elug.ir](https://www.elug.ir/doku.php?id=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D9%85%D8%A7)
 
@@ -197,7 +197,12 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - In-person meeting: 🟢
   - Site: [code-connect.ir](https://code-connect.ir/)
   - Telegram: [Group]() • [Channel](https://t.me/code_connect_ir)
-  - Social: [LinkedIn](https://www.linkedin.com/company/code-connect-ir) • [Youtube](https://www.youtube.com/@AKAMConnect) 
+  - Social: [LinkedIn](https://www.linkedin.com/company/code-connect-ir) • [Youtube](https://www.youtube.com/@AKAMConnect)
+ 
+- CoffeeDevelop &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
+  - In-person meeting: 🟢 
+  - Telegram: [Group](https://t.me/+8RjJMWgPZRY1YWM0) • [Channel](https://t.me/CafeDevelopTeam)
+
     
 ### Python
 - Tehran Python User Group (TehPUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2013 - Present
