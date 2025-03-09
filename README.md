@@ -100,10 +100,9 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - Telegram: [Channel](https://t.me/event_sisoog)
 
 ## khuzestan
-- khuzestan Linux User Group (khuzestanlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2011 - Present
+- khuzestan Linux User Group (khuzestanlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2009 - 2011?
   - In-person meeting: ⚫
   - Site: [khuzestanlug.ir](http://khuzestanlug.ir/)
-
 
 ## Mashhad
 - Ferdowsi University of Mashhad Linux users group (FUMLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
