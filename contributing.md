@@ -9,7 +9,7 @@ Please ensure your pull request adheres to the following guidelines:
   - Site: []()
   - Email: • Mailing List: []()
   - Telegram: [Group]() • [Channel]()
-  - Social: [LinkedIn]() • [Twitter]() • [Youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [Pixelfed]() • [Peertube]()
+  - Social: [LinkedIn]() • [Twitter]() • [Youtube]() • [Facebook]() • [Mastodon]() • [Instagram]() • [Pixelfed]() • [Peertube]() • [Matrix]()
   - Github: []()
  
 Thank you for your Contribution!🤞
