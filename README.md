@@ -267,7 +267,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - In-person meeting: 🔴
   - Site: [do-na.ir](https://do-na.ir/)
   - Telegram: [Channel](https://t.me/dona_news)
-  - Social: [Twitter](https://x.com/dona_news) • [Mastodon](https://khiar.net/@do_na) • [Peertube](https://tubedu.org/a/dona/video-channels) [Matrix](https://matrix.to/#/%23do-na:matrix.org)
+  - Social: [Twitter](https://x.com/dona_news) • [Mastodon](https://khiar.net/@do_na) • [Peertube](https://tubedu.org/a/dona/video-channels)  • [Matrix](https://matrix.to/#/%23do-na:matrix.org)
   - Git: [framagit.org/dona](https://framagit.org/dona)
  
 ### Front-End
