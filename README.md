@@ -36,6 +36,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - [Zanjan](#zanjan)
 
 - [Virtuals](#virtuals)
+  - [Free Software](#free-software) 
   - [Front-End](#front-end)
   - [OpenStreetMap](#openstreetmap)
   - [Parch Linux](#parch-linux)
@@ -261,6 +262,14 @@ In Iran, tech communities are active in various cities, aiming to promote educat
  
 
 ## Virtuals
+### Free Software
+- Dona &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
+  - In-person meeting: 🔴
+  - Site: [do-na.ir](https://do-na.ir/)
+  - Telegram: [Channel](https://t.me/dona_news)
+  - Social: [Twitter](https://x.com/dona_news) • [Mastodon](https://khiar.net/@do_na) • [Peertube](https://tubedu.org/a/dona/video-channels) [Matrix](https://matrix.to/#/%23do-na:matrix.org)
+  - Git: [framagit.org/dona](https://framagit.org/dona)
+ 
 ### Front-End
 - FrontChapter &nbsp;&nbsp;&nbsp;&nbsp; 
   - In-person meeting: 🟢
