@@ -11,6 +11,7 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - [Fasa](#fasa)
 - [Gilan](#gilan)
 - [Hormozgan](#hormozgan)
+- [Ilum](#ilum)
 - [Isfahan](#isfahan)
 - [Jahrom](#jahrom)
 - [Karaj](#karaj)
@@ -21,10 +22,13 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 - [Shiraz](#shiraz)
 - [Tehran](#tehran)
   - [Android](#android) 
-  - [Business Intelligence](#business-intelligence) 
+  - [Business Intelligence](#business-intelligence)
+  - [Cloud Computing](#cloud-computing)
   - [Data Engineer](#data-engineer)
   - [DevOps](#devops)
+  - [Design](#design)
   - [Free Knowledge](#free-knowledge)
+  - [Ios](#ios)
   - [Java](#java)
   - [Linux](#linux)
   - [Marketing](#marketing)
@@ -75,6 +79,11 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - In-person meeting: 🟢
   - Telegram: [Group](https://t.me/HCC_Comp)
   - Social: [Instagram](https://www.instagram.com/hcc.comp/) 
+
+## Ilum
+- Ilum Linux User Group (Ilamlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2020 - 2020?
+  - In-person meeting: ⚫
+  - Social: [Twitter](https://x.com/Ilamlug) • [Mastodon](https://mastodon.social/@ilamlug) • [Instagram](https://www.instagram.com/IlamLUG/) 
 
 ## Isfahan
 - Isfahan Linux User Group (IsfahanLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2007 - ?
@@ -166,6 +175,12 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - Telegram: [Group](https://t.me/datamining_and_bi) 
   - Social: [LinkedIn](https://www.linkedin.com/company/business-intelligence-and-data-mining-network-of-iran/) • [Instagram](www.instagram.com/bi.datamining.network/) 
 
+### Cloud Computing
+- Open community of cloud computing &nbsp;&nbsp;&nbsp;&nbsp; Since 2013 - 2021?
+  - In-person meeting: ⚫
+  - Site: [occc.ir](http://occc.ir/) wiki: [wiki.occc.ir](http://wiki.occc.ir/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C)
+  - Telegram: [Channel](https://telegram.me/Occc_news)
+
 ### Data Engineer
 - DataEngineerGuys &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
@@ -180,10 +195,24 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - Telegram: [Group](https://t.me/abrha_events) 
   - Social: [Instagram](https://www.instagram.com/abrhacom/)
 
+### Design
+- IDF Tehran &nbsp;&nbsp;&nbsp;&nbsp; Since 2018 - ?
+  - In-person meeting: ❔
+  - Telegram: [Group](https://t.me/+Wy-s9kfa5-M5ZDNk) • [Channel](https://telegram.me/iranidf/)
+  - Social: [Facebook](https://www.facebook.com/groups/idftehran/) 
+    
 ### Free Knowledge
 - Free Knowledge Foundation &nbsp;&nbsp;&nbsp;&nbsp; Since 2011 -2017
   - In-person meeting: ⚫
   - Site: [wiki.lfkf.org](https://wiki.lfkf.org/)
+
+### Ios
+- NSTehran (iOS and macOS developers) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - ?
+  - In-person meeting: ⚫
+  - Site: [nstehran.github.io/meetup](https://nstehran.github.io/meetup/)
+  - Telegram: [Group]() • [Channel]()
+  - Social: [Twitter](https://x.com/NSTehran) • [Youtube](https://www.youtube.com/@nstehran7447) • [Aparat](https://www.aparat.com/nstehran)
+  - Github: [NSTehran](https://github.com/NSTehran) 
 
 ### Java
 - Java Users Group &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
