@@ -7,6 +7,14 @@ In Iran, tech communities are active in various cities, aiming to promote educat
 
 # Contents
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
+- [Iran](#iran)
+  - [Free Software](#free-software) 
+  - [Front-End](#front-end)
+  - [OpenStreetMap](#openstreetmap)
+  - [Parch Linux](#parch-linux)
+  - [Wikipedia](#wikipedia)
+  - [WordPress](#wordpress)
+
 - [Birjand](#birjand)
 - [Fasa](#fasa)
 - [Gilan](#gilan)
@@ -38,18 +46,52 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - [Rust](#rust)
 - [Urmia](#urmia)
 - [Zanjan](#zanjan)
-
-- [Virtuals](#virtuals)
-  - [Free Software](#free-software) 
-  - [Front-End](#front-end)
-  - [OpenStreetMap](#openstreetmap)
-  - [Parch Linux](#parch-linux)
-  - [Wikipedia](#wikipedia)
     
 - [Abroad](#abroad)
   - [Europe](#europe)
  
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
+
+## Iran
+These events are not held solely in one city.
+
+### Free Software
+- Dona &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
+  - In-person meeting: 🔴
+  - Site: [do-na.ir](https://do-na.ir/)
+  - Telegram: [Channel](https://t.me/dona_news)
+  - Social: [Twitter](https://x.com/dona_news) • [Mastodon](https://khiar.net/@do_na) • [Peertube](https://tubedu.org/a/dona/video-channels)  • [Matrix](https://matrix.to/#/%23do-na:matrix.org)
+  - Git: [framagit.org/dona](https://framagit.org/dona)
+ 
+### Front-End
+- FrontChapter &nbsp;&nbsp;&nbsp;&nbsp; 
+  - In-person meeting: 🟢
+  - Site: [frontchapter.ir](https://frontchapter.ir/)
+  - Telegram: [Group](https://t.me/frontChapterGroup) • [Channel](https://t.me/FrontChapter)
+
+### OpenStreetMap
+- OpenStreetMap User Group
+  - In-person meeting: 🔴
+  - Telegram: [Group](https://t.me/osmUsersGroup)
+
+### Parch Linux
+- Parch Linux 
+  - In-person meeting: 🔴
+  - Telegram: [English Group](https://t.me/parchlinux_en) • [Channel](https://t.me/parchlinux)
+
+### Wikipedia
+- Wikimedians
+  - In-person meeting: 🔴
+  - Telegram: [Group](https://t.me/iranwikimedia) • [Channel](https://t.me/wikimedia_Iran) 
+
+### WordPress
+- Iran WordPress Meetup &nbsp;&nbsp;&nbsp;&nbsp; Since 2016 - Present
+  - In-person meeting: 🟢
+  - Site: [wpmeetup.ir](https://wpmeetup.ir)
+  - Telegram: [Group](https://t.me/fa_wp) • [Channel](https://t.me/irwpmeetup)
+  - Social: [LinkedIn](https://www.linkedin.com/company/irwpmeetup/) • [Twitter](https://x.com/irwpmeetup) • [Instagram](https://www.instagram.com/irwpmeetup) • [Aparat](https://www.aparat.com/wpmeetup)
+
+
 
 ## Birjand
 - Birjand Linux Users Group (birlug) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
@@ -289,37 +331,6 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - Site: [zanjanlug.ir](zanjanlug.ir)
   - Telegram: [Group](https://t.me/zanjanlug) 
  
-
-## Virtuals
-### Free Software
-- Dona &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
-  - In-person meeting: 🔴
-  - Site: [do-na.ir](https://do-na.ir/)
-  - Telegram: [Channel](https://t.me/dona_news)
-  - Social: [Twitter](https://x.com/dona_news) • [Mastodon](https://khiar.net/@do_na) • [Peertube](https://tubedu.org/a/dona/video-channels)  • [Matrix](https://matrix.to/#/%23do-na:matrix.org)
-  - Git: [framagit.org/dona](https://framagit.org/dona)
- 
-### Front-End
-- FrontChapter &nbsp;&nbsp;&nbsp;&nbsp; 
-  - In-person meeting: 🟢
-  - Site: [frontchapter.ir](https://frontchapter.ir/)
-  - Telegram: [Group](https://t.me/frontChapterGroup) • [Channel](https://t.me/FrontChapter)
-
-### OpenStreetMap
-- OpenStreetMap User Group
-  - In-person meeting: 🔴
-  - Telegram: [Group](https://t.me/osmUsersGroup)
-
-### Parch Linux
-- Parch Linux 
-  - In-person meeting: 🔴
-  - Telegram: [English Group](https://t.me/parchlinux_en) • [Channel](https://t.me/parchlinux)
-
-### Wikipedia
-- Wikimedians
-  - In-person meeting: 🔴
-  - Telegram: [Group](https://t.me/iranwikimedia) • [Channel](https://t.me/wikimedia_Iran) 
-
 ## Abroad
 ### Europe
 - Persian Linux User Group (persianlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
