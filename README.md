@@ -202,6 +202,14 @@ These events are not held solely in one city.
   - Telegram: [Group](https://t.me/shiraztux)
   - Social: [LinkedIn](https://www.linkedin.com/company/shiraz-tux-group/)
 
+- ShirazLinux &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
+  - In-person meeting: 🟢
+  - Site: [sudoshz.ir](https://sudoshz.ir/)
+  - Email: info@sudoshz.ir
+  - Telegram: [Group](https://t.me/shirazlinuxcommunity) • [Channel](https://t.me/sudoshz)
+  - Social: [LinkedIn](https://www.linkedin.com/company/shirazlinux/) • [Youtube](https://www.youtube.com/@shirazlinux) • [Mastodon](https://techhub.social/@Shirazlinux@mastodon.social) • [Instagram](https://instagram.com/shirazlinux) • [Peertube](https://tubedu.org/c/shirazlinux/videos) • [Matrix](https://matrix.to/#/%23shirazlinux:matrix.org)
+  - Github: [ShirazLinux](https://github.com/shirazlinux)
+
 ## Tehran
 ### Android
 - Tehran Android Developers (logcat) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017 - Present
