@@ -200,7 +200,7 @@ These events are not held solely in one city.
 - Shiraz Tux &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
   - In-person meeting: 🟢
   - Telegram: [Group](https://t.me/shiraztux)
-  - Social: [LinkedIn](https://www.linkedin.com/company/shiraz-tux-group/)
+  - Social: [LinkedIn](https://www.linkedin.com/company/shiraz-tux-group/) • [Matrix](https://matrix.to/#/#shiraztux:matrix.org)
 
 - ShirazLinux &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
   - In-person meeting: 🟢
