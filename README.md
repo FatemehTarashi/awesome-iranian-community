@@ -1,3 +1,5 @@
+# awesome-iranian-community
+
 In Iran, tech communities are active in various cities, aiming to promote education and share knowledge across different programming languages and technologies. Below are some of the main tech communities categorized by city in Iran. Additionally, a small section is dedicated to events [outside the country.](https://github.com/FatemehTarashi/awesome-iranian-community/tree/main?tab=readme-ov-file#abroad)
 
 ❔ Status unknown |
@@ -15,17 +17,21 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - [Wikipedia](#wikipedia)
   - [WordPress](#wordpress)
 
+- [Arak](#arak)
+- [Bandar Abbas](#bandar-abbas)
 - [Birjand](#birjand)
+- [Bojnord](#bojnord)
 - [Fasa](#fasa)
 - [Gilan](#gilan)
 - [Hormozgan](#hormozgan)
-- [Ilum](#ilum)
+- [Ilam](#ilam)
 - [Isfahan](#isfahan)
 - [Jahrom](#jahrom)
 - [Karaj](#karaj)
 - [Kerman](#kerman)
 - [Khuzestan](#khuzestan)
 - [Mashhad](#mashhad)
+- [Qazvin](#qazvin)
 - [Qom](#qom)
 - [Shiraz](#shiraz)
 - [Tehran](#tehran)
@@ -36,11 +42,12 @@ In Iran, tech communities are active in various cities, aiming to promote educat
   - [DevOps](#devops)
   - [Design](#design)
   - [Free Knowledge](#free-knowledge)
-  - [Ios](#ios)
+  - [iOS](#ios)
   - [Java](#java)
   - [Linux](#linux)
   - [Marketing](#marketing)
   - [Network](#network)
+  - [PHP](#php)
   - [Programming](#programming)
   - [Python](#python)
   - [Rust](#rust)
@@ -64,10 +71,18 @@ These events are not held solely in one city.
   - Git: [framagit.org/dona](https://framagit.org/dona)
  
 ### Front-End
+- Angular Iran &nbsp;&nbsp;&nbsp;&nbsp; Since ? - 2021?
+  - In-person meeting: ❔
+  - Telegram: [Channel](https://t.me/Angular_iran)
+
 - FrontChapter &nbsp;&nbsp;&nbsp;&nbsp; 
   - In-person meeting: 🟢
   - Site: [frontchapter.ir](https://frontchapter.ir/)
   - Telegram: [Group](https://t.me/frontChapterGroup) • [Channel](https://t.me/FrontChapter)
+
+- React Iran &nbsp;&nbsp;&nbsp;&nbsp; Since ? - 2019?
+  - In-person meeting: ⚫
+  - Telegram: [Channel](https://t.me/iran_react)
 
 ### OpenStreetMap
 - OpenStreetMap User Group
@@ -93,6 +108,18 @@ These events are not held solely in one city.
 
 
 
+## Arak
+- Arak Linux User Group (ArakLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2015 - ?
+  - In-person meeting: 🟢
+  - Telegram: [Channel](https://t.me/arak_lug)
+  - Social: [Instagram](https://www.instagram.com/arak_lug/)
+
+## Bandar Abbas
+- Bandar Abbas Linux User Group (BND LUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2019 - Present
+  - In-person meeting: 🟢
+  - Site: [bndlug.codeberg.page](https://bndlug.codeberg.page/)
+  - Telegram: [Channel](https://t.me/bndlugg)
+
 ## Birjand
 - Birjand Linux Users Group (birlug) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
@@ -100,6 +127,11 @@ These events are not held solely in one city.
   - Telegram: [Group](https://t.me/birlug)
   - Social: [Instagram](https://instagram.com/birjandlug)
   - Github: [birlug](https://github.com/birlug)
+
+## Bojnord
+- Bojnord Linux User Group (BojnordLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2017 - 2023?
+  - In-person meeting: ❔
+  - Telegram: [Channel](https://t.me/Bojnordlug) • [Group](https://t.me/+S6r9H3sSg6liNzg0)
 
 ## Fasa
 - Fasa Linux User Group (FasaLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
@@ -111,6 +143,10 @@ These events are not held solely in one city.
 
 
 ## Gilan
+- Gilan Linux User Group (GilanLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
+  - In-person meeting: 🟢
+  - Social: [Instagram](https://www.instagram.com/gulluginsta/)
+
 - Gilan's Python User Group (GilPUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2020 - 2020
   - In-person meeting: ⚫
   - Social: [Instagram](https://instagram.com/gilpug) 
@@ -122,15 +158,15 @@ These events are not held solely in one city.
   - Telegram: [Group](https://t.me/HCC_Comp)
   - Social: [Instagram](https://www.instagram.com/hcc.comp/) 
 
-## Ilum
-- Ilum Linux User Group (Ilamlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2020 - 2020?
+## Ilam
+- Ilam Linux User Group (Ilamlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2020 - 2020?
   - In-person meeting: ⚫
   - Social: [Twitter](https://x.com/Ilamlug) • [Mastodon](https://mastodon.social/@ilamlug) • [Instagram](https://www.instagram.com/IlamLUG/) 
 
 ## Isfahan
 - Isfahan Linux User Group (IsfahanLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2007 - ?
   - In-person meeting: ❔
-  - Site: [IsfahanLUG.org](IsfahanLUG.org) & [elug.ir](https://www.elug.ir/doku.php?id=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D9%85%D8%A7)
+  - Site: [IsfahanLUG.org](https://IsfahanLUG.org) & [elug.ir](https://www.elug.ir/doku.php?id=%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87_%D9%85%D8%A7)
 
 ## Jahrom
 - Jahrom Linux User Group (JahromLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
@@ -151,18 +187,17 @@ These events are not held solely in one city.
   - In-person meeting: 🟢
   - Telegram: [Channel](https://t.me/event_sisoog)
 
-## khuzestan
-- khuzestan Linux User Group (khuzestanlug) &nbsp;&nbsp;&nbsp;&nbsp; Since 2009 - 2011?
+## Khuzestan
+- Khuzestan Linux User Group (KhuzestanLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2009 - 2011?
   - In-person meeting: ⚫
   - Site: [khuzestanlug.ir](http://khuzestanlug.ir/)
 
 ## Mashhad
-- Ferdowsi University of Mashhad Linux users group (FUMLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
+- Ferdowsi University of Mashhad Linux Users Group (FUMLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
   - In-person meeting: 🟢
-  - Site: [fumlug.um.ac.ir](fumlug.um.ac.ir)
-  - Email: • Mailing List: []()
+  - Site: [fumlug.um.ac.ir](https://fumlug.um.ac.ir)
   - Telegram: [Group](https://t.me/ferdowsilug) • [Channel](https://t.me/fum_lug)
-  - Social: [peertube](https://tubedu.org/c/ferdowsilug)
+  - Social: [Peertube](https://tubedu.org/c/ferdowsilug)
   - Git: [codeberg.org/FUMLUG](https://codeberg.org/FUMLUG)
 
 - Mashhad Linux User Group (MashhadLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - Present
@@ -174,6 +209,12 @@ These events are not held solely in one city.
 - Mashhad Python User Group (MashhadPUG) • Since ? - ?
   - In-person meeting: ❔
   - Mailing List: [https://mail.python.org/mailman/listinfo/mashhadpug](https://mail.python.org/mailman/listinfo/mashhadpug)
+
+## Qazvin
+- Qazvin Linux User Group (QazvinLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - 2024?
+  - In-person meeting: 🟢
+  - Telegram: [Channel](https://t.me/qazvinlug)
+  - Social: [Twitter](https://x.com/qazvinlug) • [Facebook](https://www.facebook.com/qazvinlug/)
 
 ## Qom 
 - Qom Linux User Group (QomLUG) &nbsp;&nbsp;&nbsp;&nbsp; Since 2012 - 2017
@@ -226,6 +267,10 @@ These events are not held solely in one city.
   - Social: [LinkedIn](https://www.linkedin.com/company/business-intelligence-and-data-mining-network-of-iran/) • [Instagram](www.instagram.com/bi.datamining.network/) 
 
 ### Cloud Computing
+- Cloud Native Community &nbsp;&nbsp;&nbsp;&nbsp; Since 2024 - Present
+  - In-person meeting: 🟢
+  - Site: [TehLUG event page](https://tehlug.org/events/275/info/)
+
 - Open community of cloud computing &nbsp;&nbsp;&nbsp;&nbsp; Since 2013 - 2021?
   - In-person meeting: ⚫
   - Site: [occc.ir](http://occc.ir/) wiki: [wiki.occc.ir](http://wiki.occc.ir/index.php?title=%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C)
@@ -256,7 +301,7 @@ These events are not held solely in one city.
   - In-person meeting: ⚫
   - Site: [wiki.lfkf.org](https://wiki.lfkf.org/)
 
-### Ios
+### iOS
 - NSTehran (iOS and macOS developers) &nbsp;&nbsp;&nbsp;&nbsp; Since ? - ?
   - In-person meeting: ⚫
   - Site: [nstehran.github.io/meetup](https://nstehran.github.io/meetup/)
@@ -297,6 +342,12 @@ These events are not held solely in one city.
   - Telegram: [Group](https://t.me/irnog)
   - Social: [LinkedIn](https://www.linkedin.com/company/irnog/) • [Twitter](https://twitter.com/irannog) • [instagram](https://www.instagram.com/irnog/) 
 
+### PHP
+- LaraTalks &nbsp;&nbsp;&nbsp;&nbsp; Since 2015 - 2015?
+  - In-person meeting: ⚫
+  - Telegram: [Channel](https://t.me/laratalks)
+  - Social: [Facebook](https://www.facebook.com/laratalks/)
+
 ### Programming
 - Code connect &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
   - In-person meeting: 🟢
@@ -321,7 +372,7 @@ These events are not held solely in one city.
 ### Rust
 - Rust Meetup in Iran &nbsp;&nbsp;&nbsp;&nbsp; Since 2021 - Present
   - In-person meeting: 🟢
-  - Site: [ust-meetup.ir](https://rust-meetup.ir/)
+  - Site: [rust-meetup.ir](https://rust-meetup.ir/)
   - Telegram: [Group](http://t.me/rust_persian)
   - Social: [Twitter](https://twitter.com/Rust_ir)
   - Github: [rust-meetup](https://github.com/rust-meetup)
@@ -336,7 +387,7 @@ These events are not held solely in one city.
 ## Zanjan
 - Zanjan Linux User Group  &nbsp;&nbsp;&nbsp;&nbsp; Since 2023 - Present
   - In-person meeting: 🟢
-  - Site: [zanjanlug.ir](zanjanlug.ir)
+  - Site: [zanjanlug.ir](https://zanjanlug.ir)
   - Telegram: [Group](https://t.me/zanjanlug) 
  
 ## Abroad
@@ -348,7 +399,3 @@ These events are not held solely in one city.
   - Telegram: [Group](https://t.me/persianlug_chat) • [Channel](https://t.me/persianlug) 
   - Social: [Twitter](https://x.com/persianlug) • [Instagram](https://www.instagram.com/persian.lug)
   - Github: [persianlug](https://github.com/persianlug)
-
- 
-
-
